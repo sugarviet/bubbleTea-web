@@ -39,7 +39,7 @@ public class LoginGoogleHandler extends HttpServlet {
         
         System.out.println(userInfo);
         
-       DAO dao = new DAO();
+        DAO dao = new DAO();
         HttpSession session = request.getSession();
         boolean checkDuplicate = dao.checkDuplicate(userInfo.getId());
         List<Product> productList = dao.getAllProduct();

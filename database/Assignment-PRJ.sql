@@ -1,5 +1,5 @@
 CREATE DATABASE Assignment_PRJ;
-
+drop database SWP391_Project
 USE Assignment_PRJ;
 -----------------------------------------------------------------------
 CREATE TABLE tblRoles(

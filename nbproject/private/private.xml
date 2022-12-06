@@ -3,10 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/PRJ301/Assignment/src/java/sample/email/Email.java</file>
-            <file>file:/D:/PRJ301/Assignment/src/java/sample/email/Account.java</file>
-            <file>file:/D:/PRJ301/Assignment/src/java/sample/controllers/ProductDetailController.java</file>
-            <file>file:/D:/PRJ301/Assignment/src/java/sample/controllers/MainController.java</file>
+            <file>file:/E:/PRJ301/Assignment/src/java/sample/entity/User.java</file>
+            <file>file:/E:/PRJ301/Assignment/web/viewCart.jsp</file>
+            <file>file:/E:/PRJ301/Assignment/src/java/sample/utils/GoogleUtils.java</file>
+            <file>file:/E:/PRJ301/Assignment/web/userPage.jsp</file>
+            <file>file:/E:/PRJ301/Assignment/src/java/sample/controllers/LoginController.java</file>
+            <file>file:/E:/PRJ301/Assignment/src/java/sample/entity/Product.java</file>
+            <file>file:/E:/PRJ301/Assignment/src/java/sample/utils/DBUtils.java</file>
         </group>
     </open-files>
 </project-private>

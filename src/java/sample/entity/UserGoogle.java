@@ -24,9 +24,9 @@ public class UserGoogle {
 
 	private String picture;
         
-        private String password = "123";
+        private String password = "1";
         
-        private String roleID = "US";
+        private String roleID = "CUS";
 
     public UserGoogle() {
        
@@ -42,7 +42,7 @@ public class UserGoogle {
         this.family_name = family_name;
         this.picture = picture;
         this.password = "1";
-        this.roleID = "US";
+        this.roleID = "CUS";
     }
 
     public String getId() {
